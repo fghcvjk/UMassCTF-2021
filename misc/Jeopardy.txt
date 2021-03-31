@@ -1,0 +1,45 @@
+root@ubuntu:~# nc 34.72.64.224 8082
+Welcome to python jail-pardy! Each correctly answered question grants you characters which you can use try to break out of this game with to get the flag.
+When you answer a question correctly, the game will tell you which characters have been unlocked.
+To attempt to breakout, instead of picking a question, type the word "jailbreak" instead.
+
+    ----------------------------------------- Jeopardy! -----------------------------------------
+    UMass:  Cybersecurity Now:  Cybersecurity Yesterday:  Cybersecurity Tomorrow:  Miscellaneous:
+     100           100                     100                      100                 100
+     200           200                     200                      200                 200
+     300           300                     300                      300                 300
+     400           400                     400                      400                 400
+     500           500                     500                      500                 10000
+
+Type "ready" when you are ready to play!
+ready
+
+Pick a category and dollar amount in the format of "category dollar amount" with no dollar sign from the board below
+or type "jailbreak" to attempt to breakout of the game.
+
+    ----------------------------------------- Jeopardy! -----------------------------------------
+    UMass:  Cybersecurity Now:  Cybersecurity Yesterday:  Cybersecurity Tomorrow:  Miscellaneous:
+     100           100                     100                      100                 100
+     200           200                     200                      200                 200
+     300           300                     300                      300                 300
+     400           400                     400                      400                 400
+     500           500                     500                      500                 10000
+
+jailbreak
+Input whatever you wish to try to break out of this game with in the following input.
+Here are the characters you are allowed to use: ' '
+>>> ' '
+You entered a character you are not allowed to use. Go answer more questions or rerun the game.
+
+You are back in the game loop. I hope it wasn't too easy...
+
+Pick a category and dollar amount in the format of "category dollar amount" with no dollar sign from the board below
+or type "jailbreak" to attempt to breakout of the game.
+
+    ----------------------------------------- Jeopardy! -----------------------------------------
+    UMass:  Cybersecurity Now:  Cybersecurity Yesterday:  Cybersecurity Tomorrow:  Miscellaneous:
+     100           100                     100                      100                 100
+     200           200                     200                      200                 200
+     300           300                     300                      300                 300
+     400           400                     400                      400                 400
+     500           500                     500                      500                 10000
